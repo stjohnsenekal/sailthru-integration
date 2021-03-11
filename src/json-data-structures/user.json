@@ -1,0 +1,19 @@
+{
+  "id": "scarlett.johansson@onedayonly.co.za",
+  "vars": {
+    "first_name" : "Scarlet",
+    "last_name" : "Johansson",
+    "gender" : "f",
+    "signup_location" : "iPhone campaign",
+    "phone" : "0721991604",
+    "source" : "Twitter",
+    "campaign" : "iPhone",
+    "signup_date" : "2020-07-29",
+    "birth_date" : "1990-12-25",
+    "postal_province" : "WC",
+    "postal_source" : "Magento",
+    "postal_code" : "7550",
+    "domain" : "Google"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "id": "https://www.onedayonly.co.za/corded-or-cordless-handheld-stick-vacuum-cleaner-model-vc-5.html",
+  "key": "url",
+  "keys": {
+      "sku": "KAR-VACUUM-VC5"
+  },
+  "title": "Karcher Vacuum Cleaner",
+  "description": "Vacuum cleaner with all the bells and whistles.",
+  "price": 2099,
+  "inventory": 17,
+  "date": "2020-06-20 14:30:00 -0400",
+  "tags": "vaccum, household, kitchen",
+  "vars": {
+      "var1": "var 1 value"
+  },
+  "images": {
+      "full": {
+          "url": "http://example.com/images/product.jpg"
+      }
+  },
+  "site_name": "Store"
+}
+

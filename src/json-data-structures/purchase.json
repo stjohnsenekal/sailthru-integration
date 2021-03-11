@@ -1,0 +1,64 @@
+{
+  "email":"john.senekal@onedayonly.co.za",
+  "items":
+      [
+          {
+              "qty":1,
+              "title":"Samsonite Expandable Suitcase",
+              "price":2800.00,
+              "id":1234, 
+              "url":"https://www.onedayonly.co.za/69cm-or-75cm-optic-spinner-expandable-suitcase.html",
+              "images": 
+              {
+                "full": { 
+                  "url": "https://cdn.onedayonly.co.za/catalog/product/159/523/1595234476.5484.jpeg"
+                }, 
+                "thumb": {
+        				  "url": "http://example.com/images/product_thumb.jpg"
+        			  }
+              },
+              "tags":
+                ["travel",
+                "suitcases",
+                "price-2",
+                "discount-3"],
+                "vars":
+                {
+                    "color":"blue",
+                    "material":"stainless steel"
+                }
+        }
+      ],
+      "message_id":"23432.231",
+      "adjustments":
+      [
+        {
+          "price": 2800,
+          "title": "product"
+        },
+        {
+          "price": -100,
+          "title": "discount"
+        },
+        {
+          "price": 59,
+          "title": "shipping"
+        }  
+      ],
+     "incomplete":0,
+     "reminder_template":"Johno Abandoned Cart Reminder",
+     "reminder_time":"+1 mins",
+     "send_template":"purchase_receipt",
+     "channel":"app",
+     "vars":
+      {
+        "product_iD" : "421448",
+        "full_name" : "Corded or Cordless Handheld Stick Vacuum Cleaner (Model: VC 5)",
+        "brand" : "Karcher",
+        "category_purchased" : "Tech",
+        "sku" : "KAR-VACUUM-VC5",
+        "quantity" : "2",
+        "LTD deal" : "y",
+        "over18" : "n"
+      }
+}

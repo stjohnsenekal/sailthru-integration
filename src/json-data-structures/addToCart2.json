@@ -1,0 +1,55 @@
+{
+  "email":"john.senekal@onedayonly.co.za",
+  "items":
+      [
+        {
+              "qty": 1,
+              "title": "Amazon Kindle",
+              "price": 4999.00,
+              "id": 1234, 
+              "url": "https://www.onedayonly.co.za/waterproof-audible-paperwhite-wi-fi-4g-lte-32gb-with-s-o-10th-gen-2018-including-a-cover-20200804.html",
+              "images": {
+                "full": { 
+                  "url": "https://cdn.onedayonly.co.za/catalog/product/159/523/1595234476.5484.jpeg"
+                }, 
+                "thumb": {
+        				  "url": "http://example.com/images/product_thumb.jpg"
+        			  }
+              },
+              "tags": [
+                "animals_and_pet_supplies",
+                "nike",
+                "mens-formal-shirt",
+                "price-3",
+                "discount-0"
+              ],
+              "vars": {
+                "product_id": "421448",
+                "full_name": "Waterproof Audible Paperwhite Wi-Fi + 4G/LTE 32GB with S/O 10th Gen 2018 with Cover (Model: AK-9178)",
+                "brand": "Karcher",
+                "category_purchased": "Tech",
+                "sku": "KAR-VACUUM-VC5",
+                "quantity": "2",
+                "LTD deal": "y",
+                "over18": "n"
+              }
+        }
+      ],
+  "message_id": "23432.231",
+  "adjustments":
+  [
+    {
+      "price": -100,  
+      "title": "voucher"
+    },
+    {
+      "price": 59,
+      "title": "shipping"
+    }  
+  ],
+  "incomplete": 0,
+  "channel": "app",
+  "vars": {
+    "order_number" : "24289176"
+  }
+}
